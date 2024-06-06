@@ -8,10 +8,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,6 +22,9 @@ Welcome to the Data Visualization Dashboard! This project is built using the MER
 - **Two different chart types:**
   - Dynamic and interactive
   - Responsive design for various devices
+- **Data filteration:**
+  - User can filter data based on parameters
+  - User can view filtered data in charts
 - **User-friendly interface**
 - **Backend data management with MongoDB**
 
